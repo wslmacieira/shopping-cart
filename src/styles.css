@@ -1,2 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.cart-item,
+.filters,
+.product-btn {
+  font-size: small;
+}
+
+.card,
+.form-control,
+.btn {
+  border-radius: 0;
+}
+
+.list-group-item:first-child,
+.list-group-item:last-child {
+  border-radius: 0;
+}
