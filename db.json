@@ -27,6 +27,28 @@
       "description": "This is the product 4 description. The product is really kool!",
       "imageUrl": "https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/211310/GLL56_01_1-CONJUNTO-DE-FIGURAS---TOY-STORY---BAU-DE-BRINQUEDOS-DO-ANDY---MATTEL.jpg?v=637327550224430000",
       "price": 350
+    },
+    {
+      "id": 5,
+      "name": "Urso de Pelucia",
+      "description": "This is the product 4 description. The product is really kool!",
+      "imageUrl": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1357585555",
+      "price": 350
+    },
+    {
+      "id": 6,
+      "name": "Manopla do Infinito",
+      "description": "This is the product 4 description. The product is really kool!",
+      "imageUrl": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1450201029",
+      "price": 350
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 6
+    },
+    {
+      "id": 5
     }
   ],
   "cart": [
@@ -89,6 +111,36 @@
         "price": 100
       },
       "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Hulk",
+        "description": "This is the product 3 description. The product is really kool!",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61XqmBFnU9L._AC_SX425_.jpg",
+        "price": 100
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Toy History",
+        "description": "This is the product 4 description. The product is really kool!",
+        "imageUrl": "https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/211310/GLL56_01_1-CONJUNTO-DE-FIGURAS---TOY-STORY---BAU-DE-BRINQUEDOS-DO-ANDY---MATTEL.jpg?v=637327550224430000",
+        "price": 350
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Casinha de boneca",
+        "description": "This is the product 2 description. The product is really kool!",
+        "imageUrl": "https://8866.cdn.simplo7.net/static/8866/sku/brinquedos-de-playground-casinhas-casinha-de-brinquedos-life-c--p-1581611402794.jpg",
+        "price": 150
+      },
+      "id": 9
     }
   ]
 }
