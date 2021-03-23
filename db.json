@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rubik's Cube",
+      "description": "This is the product 1 description. The product is really kool!",
+      "imageUrl": "assets/rubik-cub.jpeg",
+      "price": 299.00
+    },
+    {
+      "id": 2,
+      "name": "Casinha de boneca",
+      "description": "This is the product 2 description. The product is really kool!",
+      "imageUrl": "https://8866.cdn.simplo7.net/static/8866/sku/brinquedos-de-playground-casinhas-casinha-de-brinquedos-life-c--p-1581611402794.jpg",
+      "price": 150.00
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "description": "This is the product 3 description. The product is really kool!",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61XqmBFnU9L._AC_SX425_.jpg",
+      "price": 100.00
+    },
+    {
+      "id": 4,
+      "name": "Toy History",
+      "description": "This is the product 4 description. The product is really kool!",
+      "imageUrl": "https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/211310/GLL56_01_1-CONJUNTO-DE-FIGURAS---TOY-STORY---BAU-DE-BRINQUEDOS-DO-ANDY---MATTEL.jpg?v=637327550224430000",
+      "price": 350.00
+    }
+  ],
+  "cart": []
+}
