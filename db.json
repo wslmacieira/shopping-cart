@@ -45,10 +45,10 @@
   ],
   "wishlist": [
     {
-      "id": 6
+      "id": 3
     },
     {
-      "id": 5
+      "id": 6
     }
   ],
   "cart": [
@@ -141,6 +141,16 @@
         "price": 150
       },
       "id": 9
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Manopla do Infinito",
+        "description": "This is the product 4 description. The product is really kool!",
+        "imageUrl": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1450201029",
+        "price": 350
+      },
+      "id": 10
     }
   ]
 }
